@@ -1,0 +1,17 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "question": "BU nedir",
+            "type": "multiple",
+            "correct_answer": "Doğru",
+            "category": "Science: Mathematics",
+            "difficulty": "easy",
+            "incorrect_answers": [
+                "yanlışlara",
+                "deney",
+                "delkii"
+            ]
+        }
+    ]
+}
