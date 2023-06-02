@@ -3,7 +3,6 @@
     "results": [
         {
             "question": "BU nedir",
-            "type": "multiple",
             "correct_answer": "Doğru",
             "category": "Science: Mathematics",
             "difficulty": "easy",
